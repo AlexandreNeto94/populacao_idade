@@ -10,7 +10,11 @@ Fontes:
 
 
 A base de dados forencida encntrasse em 4 arquivos:
+
 "POP_total"- População total por faixa etaria. 
+
 "POP_Feminino"-População apenas do sexo feminino por faixa etaria. 
+
 "POP_masculino"- População apenas do sexo masculino por faixa etaria.
+
 "DICIONARIO"- Metadados. 
