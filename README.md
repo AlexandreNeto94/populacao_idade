@@ -1,4 +1,4 @@
-# População do Brasil por faixa etaria 1980 a 2021
+# População do Brasil por faixa etária 1980 a 2021
 Primeiramente para realizar a contrução dessa base de dados foi usado o seguinte processo. 
 Fontes:
 
