@@ -15,7 +15,7 @@ Fontes:
 -2012 a 2021 – Estimativas preliminares elaboradas pelo Ministério da Saúde/SVSA/DAENT/CGIAE
 
 
-A base de dados forencida encntrasse em 4 arquivos:
+**A base de dados forencida encntrasse em 4 arquivos:**
 
 "POP_total"- População total por faixa etaria. 
 
