@@ -24,3 +24,5 @@ Fontes:
 "POP_masculino"- População apenas do sexo masculino por faixa etaria.
 
 "DICIONARIO"- Metadados. 
+
+[![DOI](https://zenodo.org/badge/799651430.svg)](https://zenodo.org/doi/10.5281/zenodo.11182834)
